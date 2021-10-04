@@ -40,6 +40,7 @@ Just run the executable passing non-duplicate integers as the arguments.
 ```
 $ ./push_swap 1 5 2 4 3
 ```
+![image](https://user-images.githubusercontent.com/31427890/135895901-89c9573f-6db9-457f-8318-295a32f7f51d.png)
 
 ## 🏫 42 École | 42 São Paulo
 42 École is a network of tech schools spread around the world where anyone can learn how to code for free.\
